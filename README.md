@@ -25,3 +25,7 @@ This project demonstrates the design and development of a 2D CNC-based drawing m
 
 ## Outcome
 The machine can draw images by converting them into G-code and executing precise motion.
+
+## Project Files
+- [Group Report](2D_CNC_Printer_Group_Report.pdf)  
+- [Individual Report (My Work)](2D_CNC_Printer_Jayanth_Report.pdf)
